@@ -1,0 +1,13 @@
+@media only screen and (max-width: 770px ) {
+    .list{
+        display: none;
+    }
+    .logo{
+        a{
+            font-size: 30px;
+        }
+    }
+    .menu{
+            display: block;
+    }
+}
